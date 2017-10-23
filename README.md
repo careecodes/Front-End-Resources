@@ -13,6 +13,7 @@ Resources for career development and learning for Front End Developers
 * Awwwards
 * Dribbble
 * Behance
+* [Codrops](https://tympanus.net/codrops/)
 
 ## Tools
 * Codepen
@@ -23,11 +24,15 @@ Resources for career development and learning for Front End Developers
 
 ## Newsletters
 * Versioning
+* Codepen 
+Code
 
 ## Twitter Accounts
-* Codepen
+* Jen Simmons
 * Chris Coyier
 * Sara Drasner
 
 ## Books
 * HTML & CSS by John Duckett
+* Javascript & jQuery by John Duckett
+
