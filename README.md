@@ -17,4 +17,7 @@ Resources for career development and learning for Front End Developers
 ## Tools
 * Codepen
 * JsFiddle
+* Visual Inspector by CanvasFlip
+* Color Picker
+* WhatFont
 * 
