@@ -37,4 +37,10 @@ This is how I stay in touch with the latest Front End Development stuff. :)
 
 ## Courses
 * [Pluralsight](https://www.pluralsight.com/)
+* 
+
+## Youtube Series
+* Github for Noobs
+* Javascript Fundamentals
+
 
