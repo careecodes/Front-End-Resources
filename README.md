@@ -1,5 +1,5 @@
 # Front-End-Resources
-Resources for career development and learning for Front End Developers
+This is how I stay in touch with the latest Front End Development stuff. :)
 
 ## Podcasts
 * Syntax
