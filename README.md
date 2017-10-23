@@ -20,4 +20,14 @@ Resources for career development and learning for Front End Developers
 * Visual Inspector by CanvasFlip
 * Color Picker
 * WhatFont
-* 
+
+## Newsletters
+* Versioning
+
+## Twitter Accounts
+* Codepen
+* Chris Coyier
+* Sara Drasner
+
+## Books
+* HTML & CSS by John Duckett
