@@ -4,13 +4,13 @@ Resources for career development and learning for Front End Developers
 ## Podcasts
 * Syntax
 * Developer Tea
-* Codepen Radio
+* [Codepen Radio](https://blog.codepen.io/radio/)
 * Friends Talk Frontend
 * The Women in Tech Show
 * Late Nights With Trav and Los
 
 ## Websites
-* Awwwards
+* [Awwwards](https://www.awwwards.com/)
 * Dribbble
 * Behance
 * [Codrops](https://tympanus.net/codrops/)
@@ -25,7 +25,6 @@ Resources for career development and learning for Front End Developers
 ## Newsletters
 * Versioning
 * Codepen 
-Code
 
 ## Twitter Accounts
 * Jen Simmons
@@ -35,4 +34,7 @@ Code
 ## Books
 * HTML & CSS by John Duckett
 * Javascript & jQuery by John Duckett
+
+## Courses
+* [Pluralsight](https://www.pluralsight.com/)
 
