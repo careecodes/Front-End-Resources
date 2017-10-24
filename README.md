@@ -16,6 +16,7 @@ This is how I stay in touch with the latest Front End Development stuff. :)
 * Non Breaking Space Show
 * User Defenders
 * Inside Intercom
+* Front End Happy Hour
 
 ## Websites
 * [Awwwards](https://www.awwwards.com/)
