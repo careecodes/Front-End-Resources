@@ -11,6 +11,8 @@ This is how I stay in touch with the latest Front End Development stuff. :)
 * Responsive Web Design 
 * ShopTalk
 * The Big Web Show
+* Overtime
+* Presentable
 
 ## Websites
 * [Awwwards](https://www.awwwards.com/)
