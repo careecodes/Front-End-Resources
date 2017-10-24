@@ -8,6 +8,9 @@ This is how I stay in touch with the latest Front End Development stuff. :)
 * Friends Talk Frontend
 * The Women in Tech Show
 * Late Nights With Trav and Los
+* Responsive Web Design 
+* ShopTalk
+* The Big Web Show
 
 ## Websites
 * [Awwwards](https://www.awwwards.com/)
