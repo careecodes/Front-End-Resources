@@ -13,6 +13,9 @@ This is how I stay in touch with the latest Front End Development stuff. :)
 * The Big Web Show
 * Overtime
 * Presentable
+* Non Breaking Space Show
+* User Defenders
+* Inside Intercom
 
 ## Websites
 * [Awwwards](https://www.awwwards.com/)
